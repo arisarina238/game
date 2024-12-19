@@ -1,0 +1,74 @@
+{
+    "test1": {
+        "email": "qwerty123@mail.ru",
+        "password": "helloworld1",
+        "wins": 3,
+        "losses": 4
+    },
+    "arika": {
+        "email": "hello123@gmail.com",
+        "password": "arika123",
+        "wins": 3,
+        "losses": 2
+    },
+    "MinSuga": {
+        "email": "dday2023@mail.ru",
+        "password": "march1993",
+        "wins": 73,
+        "losses": 23
+    },
+    "Jungkook": {
+        "email": "seven2023@mail.ru",
+        "password": "partypartye2000",
+        "wins": 45,
+        "losses": 9
+    },
+    "Jin": {
+        "email": "worldwidehandsome2@mail.ru",
+        "password": "happy2024",
+        "wins": 15,
+        "losses": 11
+    },
+    "Jimin": {
+        "email": "parl2014@gmail.com",
+        "password": "face2022",
+        "wins": 23,
+        "losses": 0
+    },
+    "Taehyung": {
+        "email": "happynewyear0@mail.ru",
+        "password": "micdrop2017",
+        "wins": 16,
+        "losses": 16
+    },
+    "Namjoon": {
+        "email": "repmonster2014@gmail.com",
+        "password": "mynameis1",
+        "wins": 14,
+        "losses": 21
+    },
+    "Hoseok": {
+        "email": "sunny2014@gmail.com",
+        "password": "jhope2014",
+        "wins": 53,
+        "losses": 30
+    },
+    "\u0442\u0435\u0441\u0442": {
+        "email": "hello123@mail.ru",
+        "password": "test12345",
+        "wins": 0,
+        "losses": 0
+    },
+    "testtest111": {
+        "email": "qazplm1029@mail.ru",
+        "password": "privet123",
+        "wins": 2,
+        "losses": 1
+    },
+    "maximus": {
+        "email": "qwerty1@mail.ru",
+        "password": "maximus@7",
+        "wins": 25,
+        "losses": 1
+    }
+}
